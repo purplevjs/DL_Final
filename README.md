@@ -63,7 +63,7 @@ FinalProject/
 │       └── DeepLearning/
 │           ├── dl_model.py         # NCF model architecture
 │           └── train_model.py      # Deep model training
-
+```
 
 
 ## Preprocess the dataset:
