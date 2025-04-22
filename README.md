@@ -4,9 +4,9 @@
 This project is a personalized recipe recommendation system that uses collaborative filtering and deep learning to suggest healthy meals based on a user's preferences, health goals, and dietary restrictions.
 
 ---
-## !!! Raw data is large and excluded from Github !!!
-Download here: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
-(Cleaned data is included)
+## !!! Data is large and excluded from Github !!!
+Download here: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions (Raw Data), https://www.kaggle.com/datasets/violetsuh/cleaned-recipes-dataset (Cleaned Data)
+
 
 
 
