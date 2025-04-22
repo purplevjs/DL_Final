@@ -1,0 +1,6 @@
+# Ignore large files
+scripts/data/raw/RAW_interactions.csv
+scripts/data/raw/RAW_recipes.csv
+data/processed/cleaned_recipes.csv
+scripts/model/model_ncf.pth
+data.zip
