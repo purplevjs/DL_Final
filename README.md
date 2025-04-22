@@ -40,7 +40,9 @@ Many people struggle to find meals that align with their health goals, such as r
 ---
 
 ## ⚙️ Project Structure
+'''
 FinalProject/ ├── app.py # Streamlit app ├── requirements.txt # Python dependencies ├── README.md # Project overview ├── .gitignore # Files to ignore ├── data/ │ ├── raw/ # Raw input data (not tracked) │ └── processed/ # Cleaned & structured data ├── scripts/ │ ├── make_dataset.py # Preprocessing │ └── model/ │ ├── naive_model.py # Mean rating model │ ├── classical_model.py # Linear regression model │ └── DeepLearning/ │ ├── dl_model.py # NCF model architecture │ ├── train_model.py # Deep model training │ └── recommend.py # Recommendation logic
+'''
 
 
 ## Preprocess the dataset:
